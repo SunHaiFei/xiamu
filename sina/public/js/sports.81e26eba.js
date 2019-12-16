@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["sports"],{"12e1":function(e,n,t){"use strict";t.r(n);var s=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(" sports ")])},r=[],l=t("2877"),o={},u=Object(l["a"])(o,s,r,!1,null,null,null);n["default"]=u.exports}}]);

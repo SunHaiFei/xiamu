@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["health"],{"3dd5":function(e,n,t){"use strict";t.r(n);var l=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(" health ")])},a=[],u=t("2877"),c={},r=Object(u["a"])(c,l,a,!1,null,null,null);n["default"]=r.exports}}]);
